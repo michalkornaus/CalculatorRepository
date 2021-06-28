@@ -1,0 +1,10 @@
+C:\Users\Michu\source\repos\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Michu\source\repos\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Michu\source\repos\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Michu\source\repos\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\Michu\source\repos\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Michu\source\repos\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Michu\source\repos\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Michu\source\repos\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Michu\source\repos\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Michu\source\repos\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
